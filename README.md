@@ -1,2 +1,2 @@
 # ajoumba
-mba class
+## Ajou MBA dataprogramming
